@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritika jain</h1>
 <h3 align="center">I am a passionate data science enthusiast. I am deeply intrigued by the power of data to unlock insights and drive impactful decisions.</h3>
 
-- 🌱 I’m currently learning **we**
+- 🌱 I’m currently learning **Data Science techniques**
 
 - 👯 I’m looking to collaborate on **Data Analytics project**
 
